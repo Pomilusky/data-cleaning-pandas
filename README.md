@@ -8,7 +8,7 @@ This project is aimed to study reported shark attacks. To do so we are using a D
 
 Excited to know all about shark attacks? How many shark attacks are reported per year? How has this rate evolved during history? 
 
-Where is it more likely for a shark to attack you? (Spoiler, no shark attacks in the coasts of Northern Norway, safe to swin there🥶)
+Where is it more likely for a shark to attack you? (Spoiler, no shark attacks in the coasts of Northern Norway, safe to swim over there🥶)
 
 And what are the features that make you more appetizing to a Shark?
 
@@ -20,4 +20,8 @@ Here are my hypotesis:
 
 3. Men in between their 20's and their 40's are going to be the most common prey. 
 
-This is a summarize, for further reading go to [Exploring Data](https://github.com/Pomilusky/sharky/blob/Pomilusky/Code/1.ExploringData.ipynb).
+This is a summarize, for further reading go to [0. Exploring](https://github.com/Pomilusky/sharky/blob/Pomilusky/Code/1.ExploringData.ipynb).
+## 👩‍💻My code👨‍💻:
+I have numbered all the notebooks so it is eassier to follow the code. 
+
+There is one of the files that is not numbered, the functions file. I haven't numbered  
