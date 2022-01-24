@@ -1,4 +1,6 @@
 # 🦈 Shark Attacks 🦈
+![elgif](https://i.giphy.com/media/KzQdzGn083y0K8fUGj/giphy.gif)
+[.](https://www.youtube.com/watch?v=XqZsoesa55w&ab_channel=PinkfongBabyShark-Kids%27Songs%26Stories)
 ## Introduction:
 This project is aimed to study reported shark attacks. To do so we are using a Data Base sorted in kaggle, you can find it [here](https://www.kaggle.com/teajay/global-shark-attacks).
 
