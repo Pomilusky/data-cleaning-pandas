@@ -1,6 +1,6 @@
 # 🦈 Shark Attacks 🦈
-![elgif](https://i.giphy.com/media/KzQdzGn083y0K8fUGj/giphy.gif)
-[.](https://www.youtube.com/watch?v=XqZsoesa55w&ab_channel=PinkfongBabyShark-Kids%27Songs%26Stories)
+![elgif](https://c.tenor.com/Yf2CEdBk__YAAAAC/finding-nemo-sharks.gif)
+[🎹](https://www.youtube.com/watch?v=XqZsoesa55w&ab_channel=PinkfongBabyShark-Kids%27Songs%26Stories)
 ## Introduction:
 This project is aimed to study reported shark attacks. To do so we are using a Data Base sorted in kaggle, you can find it [here](https://www.kaggle.com/teajay/global-shark-attacks).
 
@@ -10,7 +10,7 @@ Where is it more likely for a shark to attack you? (Spoiler, no shark attacks in
 
 And what are the features that make you more appetizing to a Shark?
 
-## Hipotizing:
+## Hipotizing🤔:
 Here are my hypotesis:
 1. The gorwth during history will increase At some point we are going to observe a huge growth, as most cases weren't reported in the past, and at some point humans considered reporting this data, for some reason, interesting. Also, it will probably correlated with the global population growth. 
 
