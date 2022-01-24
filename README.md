@@ -1,5 +1,7 @@
 # 🦈 Shark Attacks 🦈
 ![elgif](https://c.tenor.com/Yf2CEdBk__YAAAAC/finding-nemo-sharks.gif)
+
+
 [🎹](https://www.youtube.com/watch?v=XqZsoesa55w&ab_channel=PinkfongBabyShark-Kids%27Songs%26Stories)
 ## Introduction:
 This project is aimed to study reported shark attacks. To do so we are using a Data Base sorted in kaggle, you can find it [here](https://www.kaggle.com/teajay/global-shark-attacks).
