@@ -43,10 +43,10 @@ The code in the file [2.visualisation](https://github.com/Pomilusky/data-cleanin
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/doc/1.18/)
 * [Plotly](https://plotly.com/python/)
-* [Geopandas] (https://geopandas.org/en/stable/)
+* [Geopandas](https://geopandas.org/)
 * [ReGex](https://docs.python.org/3/library/re.html)
 * [Matplotlib](https://matplotlib.org/)
 ### Source of the data:
-*[Kaggle](https://www.kaggle.com/)
+* [Kaggle](https://www.kaggle.com/)
 
 
