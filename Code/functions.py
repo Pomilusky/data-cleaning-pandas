@@ -215,3 +215,29 @@ def country_clean(column):
             errors.append(country)
             result.append(np.nan)
     return result_countries, result, errors
+
+def append_world(column):
+    if column == 'Oceania':
+        return 1862
+    elif column == 'North America':
+        return 2654
+    elif column == 'Europe':
+        return 265
+    elif column == 'Africa':
+        return 837
+    elif column == 'Asia':
+        return 372
+    elif column == 'South America':
+        return 151
+    else:
+        return 0
+
+def append_world_country(column, Serie):
+    countries = Serie.index.values.tolist()
+    #print(countries)
+    if column in countries:
+        return Serie[column]
+        
+    else:
+        return 0
+    

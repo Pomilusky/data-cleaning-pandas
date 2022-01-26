@@ -20,8 +20,20 @@ Here are my hypotesis:
 
 3. Men in between their 20's and their 40's are going to be the most common prey. 
 
-This is a summarize, for further reading go to [0. Exploring](https://github.com/Pomilusky/sharky/blob/Pomilusky/Code/1.ExploringData.ipynb).
+This is a summary, for further information go to [0.Exploring](https://github.com/Pomilusky/data-cleaning-pandas/blob/Pomilusky/Code/0.Exploring.ipynb).
+
+
 ## 👩‍💻My code👨‍💻:
 I have numbered all the notebooks so it is eassier to follow the code. 
 
-There is one of the files that is not numbered, the functions file. I haven't numbered  
+There is one of the files that is not numbered, the functions file. I haven't numbered it because it is use in both cleaning and visualisation files. It is simply a gathering of most of the functions I am using during my code. I have written a description of most functions so the reader doesn't have to actually go to the functions.py file. 
+
+The code is little commented, but I think is pretty easy to read. If there are any quastions you can contact me and I will try to explain further. 
+
+The Data used in the files is not in the repository, you can download the orignial file and run the code to obtain it. 
+
+## Results
+The code in the file [2.visualisation](https://github.com/Pomilusky/data-cleaning-pandas/blob/Pomilusky/Code/2.visualization.ipynb), yields some figures as a result. This figures are pretty self explanatory and confirm or not each of the hypothesis. However here you have some commments that summarize the obtained results:
+1. It is, in deed, confirmed that Shark Attacks have increased with history. In the past very few were registered, but from 1850's the registers increased exponentially, we can see this evolution in the [second figure]().
+
+
