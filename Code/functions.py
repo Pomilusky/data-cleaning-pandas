@@ -1,9 +1,5 @@
-from operator import index
-from unittest import case
 import pandas as pd
 import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
 import re
 import random
 from pycountry_convert import country_alpha2_to_continent_code, country_name_to_country_alpha2
