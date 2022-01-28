@@ -4,9 +4,9 @@
 
 [🎹](https://www.youtube.com/watch?v=XqZsoesa55w&ab_channel=PinkfongBabyShark-Kids%27Songs%26Stories)
 
-1. [Introduccion:](#introduccion)
-2. [Hipotizing:](#hipotizing)
-3. [My code:](#mycode)
+1. [Introduccion](#introduccion)
+2. [Hipotizing](#hipotizing)
+3. [My code](#mycode)
 4. [Results](#results)
 5. [Sources](#sources)
 
